@@ -1,0 +1,51 @@
+data/2012_measurements_sally.txt
+
+	discharge (cfs)
+		 Average: 100.333333333
+		 Maximum: 110.0 occurred on 11/22/2012
+		 Minimum: 91.0 occurred on 05/19/2012
+
+	stage (ft)
+		 Average: 12.1166666667
+		 Maximum: 13.0 occurred on 11/22/2012
+		 Minimum: 11.3 occurred on 07/21/2012
+
+	temperature (celsius)
+		 Average: 18.0833333333
+		 Maximum: 30.0 occurred on 08/20/2012
+		 Minimum: 4.0 occurred on 02/19/2012
+--------------------------------------------------
+data/2013_measurements_ann.txt
+
+	discharge (cfs)
+		 Average: 96.75
+		 Maximum: 113.0 occurred on 06/05/2013
+		 Minimum: 85.0 occurred on 09/05/2013
+
+	stage (ft)
+		 Average: 11.5833333333
+		 Maximum: 13.4 occurred on 06/05/2013
+		 Minimum: 10.2 occurred on 09/05/2013
+
+	temperature (celsius)
+		 Average: 19.4166666667
+		 Maximum: 36.0 occurred on 08/01/2013
+		 Minimum: 4.0 occurred on 02/07/2013
+--------------------------------------------------
+data/2014_measurements_bob.txt
+
+	discharge (cfs)
+		 Average: 101.583333333
+		 Maximum: 112.0 occurred on 11/02/2014
+		 Minimum: 92.0 occurred on 05/04/2014
+
+	stage (ft)
+		 Average: 12.2
+		 Maximum: 13.2 occurred on 11/02/2014
+		 Minimum: 11.5 occurred on 05/04/2014
+
+	temperature (celsius)
+		 Average: 18.75
+		 Maximum: 33.0 occurred on 08/03/2014
+		 Minimum: 3.0 occurred on 02/08/2014
+--------------------------------------------------

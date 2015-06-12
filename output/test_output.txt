@@ -1,0 +1,16 @@
+test_measurement_file.txt
+
+	discharge (cfs)
+		 Average: 15.0
+		 Maximum: 20.0 occurred on 02/01/2014
+		 Minimum: 10.0 occurred on 01/01/2014
+
+	stage (ft)
+		 Average: 1.5
+		 Maximum: 2.0 occurred on 02/01/2014
+		 Minimum: 1.0 occurred on 01/01/2014
+
+	temperature (celsius)
+		 Average: 2.0
+		 Maximum: 3.0 occurred on 01/01/2014
+		 Minimum: 1.0 occurred on 02/01/2014

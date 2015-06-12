@@ -1,0 +1,16 @@
+2014_measurements_bob.txt
+
+	discharge (cfs)
+		 Average: 101.583333333
+		 Maximum: 112.0 occurred on 11/02/2014
+		 Minimum: 92.0 occurred on 05/04/2014
+
+	stage (ft)
+		 Average: 12.2
+		 Maximum: 13.2 occurred on 11/02/2014
+		 Minimum: 11.5 occurred on 05/04/2014
+
+	temperature (celsius)
+		 Average: 18.75
+		 Maximum: 33.0 occurred on 08/03/2014
+		 Minimum: 3.0 occurred on 02/08/2014
